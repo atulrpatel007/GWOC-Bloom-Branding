@@ -27,4 +27,4 @@ scalability, and developer experience.
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/Mohityadav1541/bloom-branding.git
+git clone [https://github.com/Mohityadav1541/bloom-branding.git](https://github.com/atulrpatel007/GWOC-Bloom-Branding.git)
